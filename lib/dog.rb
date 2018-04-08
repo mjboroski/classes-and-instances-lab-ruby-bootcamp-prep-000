@@ -1,2 +1,1 @@
-class Dog()=new class
-  
+class Dog
